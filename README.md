@@ -2,7 +2,7 @@
 <h3 align="center">Backend and software developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexeerct&label=Profile%20views&color=0e75b6&style=flat" alt="alexeerct" />
+  <img src="https://komarev.com/ghpvc/?username=alexeeras&label=Profile%20views&color=0e75b6&style=flat" alt="alexeerct" />
 </p>
 
 - 🔭 I’m currently working on **SCAII**  
@@ -61,10 +61,10 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=alexeerct&show_icons=true&locale=en&theme=radical" alt="Stats"/> 
+       <img src="https://github-readme-stats.vercel.app/api?username=alexeeras&show_icons=true&locale=en&theme=radical" alt="Stats"/> 
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeerct&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/>      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeeras&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/>      
     </td>
   </tr>
 </table>
